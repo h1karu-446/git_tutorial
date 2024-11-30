@@ -1,2 +1,2 @@
-Hellow GitHub
+# Hellow GitHub
 GitHubおよびGitのチュートリアルです。
